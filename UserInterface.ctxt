@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=UserInterface
+comment0.text=\r\n\ Provides\ date\ utility\ methods\ for\ converting\ dates\ from\ string\ to\ \r\n\ Java\ 8\ date\ formats,\ and\ vice\ versa.\r\n\ \r\n\ @Lakshmi\ Saketh\r\n\ @04262018\r\n
+comment1.params=sportsClub
+comment1.target=UserInterface(Club)
+comment1.text=\r\n\ Parameterised\ constructor\r\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=int\ menu()
+comment4.params=
+comment4.target=void\ showAvailableCourts()
+comment4.text=\r\n\ This\ function\ used\ to\ show\ the\ avilable\ courts\ in\ the\ system\r\n\ @return\ void\r\n
+comment5.params=
+comment5.target=void\ makeBooking()
+comment5.text=\ \r\n\ This\ function\ helps\ to\ make\ booking\ for\ the\ court\ by\ taking\ the\ time\ user\ id\ as\ input\r\n\ \r\n
+comment6.params=
+comment6.target=void\ showMemberBookings()
+comment6.text=\r\n\ This\ function\ helps\ to\ show\ the\ bookigs\ done\ by\ the\ member\r\n
+comment7.params=
+comment7.target=void\ showCourtBookings()
+comment7.text=\r\n\ It\ helps\ to\ see\ the\ bookings\ done\ by\ the\ court\r\n
+comment8.params=
+comment8.target=void\ deleteBooking()
+comment8.text=\r\n\ this\ function\ is\ used\ to\ delete\ a\ booking\r\n\ \r\n\ \r\n
+numComments=9

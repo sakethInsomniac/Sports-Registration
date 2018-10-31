@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Badminton
+comment1.params=data
+comment1.target=Badminton(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Badminton\r\n
+comment2.params=timecheck
+comment2.target=boolean\ timeCheck(int)
+comment2.text=\r\n\ this\ function\ checks\ the\ limit\ of\ the\ slot\r\n\ @param\ time\ as\ input\ to\ check\r\n\ @return\ bool\ datatype\r\n
+comment3.params=
+comment3.target=boolean\ isRacquetProvided()
+comment3.text=\r\n\ get\ method\ for\ the\ racquet\ required\r\n\ @return\ boolean\ status\r\n
+comment4.params=racquetProvided
+comment4.target=void\ setRacquetProvided(boolean)
+comment4.text=\r\n\ set\ method\ for\ racquet\ required\r\n\ @param\ boolean\ type\ racquet\ required.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

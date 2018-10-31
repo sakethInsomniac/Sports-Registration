@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Court
+comment0.text=\r\n\ Provides\ date\ utility\ methods\ for\ converting\ dates\ from\ string\ to\ \r\n\ Java\ 8\ date\ formats,\ and\ vice\ versa.\r\n\ \r\n\ @Lakshmi\ Saketh\r\n\ @04262018\r\n
+comment1.params=courtId
+comment1.target=Court(int)
+comment1.text=\r\n\ parameterized\ constructor\ \r\n\ @param\ int\ of\ CourtID\r\n
+comment2.params=
+comment2.target=int\ getCourtId()
+comment2.text=\r\n\ get\ method\ used\ for\ getting\ court\ ID\r\n\ @return\ courtID\ ofint\r\n
+comment3.params=b
+comment3.target=void\ addBooking(Booking)
+comment3.text=\r\n\ this\ function\ is\ used\ to\ add\ a\ booking\r\n\ @param\ BOOKING\ OBJ\r\n\ \r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getCourtBookings()
+comment4.text=\r\n\ this\ gives\ us\ array\ list\ of\ courtbookings\r\n\ @return\ the\ court\ bookings\r\n
+comment5.params=courtBookings
+comment5.target=void\ setCourtBookings(java.util.ArrayList)
+comment5.text=\r\n\ this\ function\ is\ used\ for\ setting\ court\ Bookings\r\n\ @param\ Array\ List\ of\ court\ Bookings\r\n\ \r\n
+comment6.params=date\ time\ duration
+comment6.target=boolean\ availabilityStatus(java.time.LocalDate,\ java.time.LocalTime,\ int)
+comment6.text=\r\n\ this\ function\ is\ used\ to\ check\ the\ availability\ status\ of\ the\ court\r\n\ @param\ date\ date,time,duration\r\n\ @return\ boolean\r\n
+numComments=7

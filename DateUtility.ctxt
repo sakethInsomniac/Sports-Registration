@@ -1,0 +1,29 @@
+#BlueJ class context
+comment0.target=DateUtility
+comment0.text=\r\n\ Provides\ date\ utility\ methods\ for\ converting\ dates\ from\ string\ to\ \r\n\ Java\ 8\ date\ formats,\ and\ vice\ versa.\r\n\ \r\n\ @Lakshmi\ Saketh\r\n\ @04262018\r\n
+comment1.params=dateInput
+comment1.target=java.time.LocalDate\ convertDate(java.lang.String)
+comment2.params=timeInput
+comment2.target=java.time.LocalTime\ convertTime(java.lang.String)
+comment3.params=
+comment3.target=java.time.LocalDate\ getCurrentDate()
+comment3.text=\r\n\ This\ gives\ the\ local\ date\ of\ system\r\n\r\n\ @return\ Local\ Sytem\ date\ or\ server\ date.\r\n
+comment4.params=
+comment4.target=java.time.LocalTime\ getCurrentTime()
+comment4.text=\r\n\ This\ gives\ the\ local\ system\ time\r\n\r\n\ @return\ local\ system\ time\r\n
+comment5.params=
+comment5.target=java.time.LocalDateTime\ getCurrentDateTime()
+comment5.text=\r\n\ This\ gives\ both\ the\ date\ and\ time\r\n\r\n\ @\ retuns\ the\ date\ and\ time\ of\ local\ system.\r\n
+comment6.params=inputDate
+comment6.target=java.lang.String\ getLocalisedDate(java.time.LocalDate)
+comment6.text=\r\n\ generates\ localised\ date\ from\ provided\ string\ Date\r\n\r\n\ @param\ inputDate\ provided\ string\ date\r\n\ @return\ Localised\ date\ as\ per\ the\ requirements\r\n
+comment7.params=firstDate\ secondDate
+comment7.target=long\ daysBetweenDates(java.time.LocalDate,\ java.time.LocalDate)
+comment7.text=\r\n\ Returns\ the\ days\ between\ provided\ dates\r\n\r\n\ @param\ date\ for\ comparison\r\n\ @return\ difference\ between\ dates\r\n\ <p><p>\r\n\ See\ <a\ href\ \="https\://stackoverflow.com/a/29812532/3796452">https\://stackoverflow.com/a/29812532/3796452</a>\ for\ reference\r\n
+comment8.params=firstTime\ secondTime
+comment8.target=long\ timeBetweenDateTimes(java.time.LocalTime,\ java.time.LocalTime)
+comment8.text=\r\n\ Returns\ the\ days\ between\ provided\ dates\r\n\r\n\ @param\ date\ for\ comparison\r\n\ @return\ difference\ between\ times\r\n\ <p><p>\r\n\ See\ <a\ href\ \="https\://stackoverflow.com/a/29812532/3796452">https\://stackoverflow.com/a/29812532/3796452</a>\ for\ reference\r\n
+comment9.params=firstTime\ secondTime
+comment9.target=long\ hoursBetweenDateTimes(java.time.LocalDateTime,\ java.time.LocalDateTime)
+comment9.text=\r\n\ Returns\ the\ days\ between\ provided\ dates\r\n\r\n\ @param\ date\ for\ comparison\r\n\ @return\ difference\ between\ dates\ and\ times\r\n\ <p><p>\r\n\ See\ <a\ href\ \="https\://stackoverflow.com/a/29812532/3796452">https\://stackoverflow.com/a/29812532/3796452</a>\ for\ reference\r\n
+numComments=10

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Basketball
+comment1.params=data
+comment1.target=Basketball(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BasketBall\r\n
+comment2.params=timecheck
+comment2.target=boolean\ timeCheck(int)
+comment2.text=\r\n\ this\ function\ checks\ the\ limit\ of\ the\ slot\r\n\ @param\ time\ as\ input\ to\ check\r\n\ @return\ bool\ datatype\r\n
+comment3.params=
+comment3.target=double\ getNetHeight()
+comment3.text=\r\n\ get\ method\ for\ net\ height\r\n\ @return\ net\ height\r\n
+comment4.params=netHeight
+comment4.target=void\ setNetHeight(double)
+comment4.text=\r\n\ set\ method\ for\ net\ height\r\n\ @param\ netHeight\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
