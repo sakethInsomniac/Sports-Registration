@@ -8,7 +8,7 @@ PROJECT TITLE: Swinburen Country Club
 PURPOSE OF PROJECT: Manage sports bookings
 VERSION or DATE: 0.1  September 2, 2016
 HOW TO START THIS PROJECT: execute the start method
-AUTHORS: A Bayley, Richard Camelleiri
+AUTHORS: Lakshmi Saketh
 
 USER INSTRUCTIONS:
 
